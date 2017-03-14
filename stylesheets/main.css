@@ -1,0 +1,99 @@
+.page-top-font {
+    font-family: 'Amatic SC', cursive;
+    font-size:40px;
+    }
+ .carousel-caption {
+    font-family: 'Amatic SC', cursive;
+    font-size:55px;
+    }
+h3 { 
+	font-family: 'Amatic SC', cursive;
+    font-size:70px;
+	}
+h1 { 
+	font-family: 'Amatic SC', cursive;
+    font-size:50px;
+    text-align:center;
+	}
+h2 { 
+	font-family: 'Amatic SC', cursive;
+    font-size:35px;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+	}
+nav a {
+   font-family: 'Amatic SC', cursive;
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   font-size:35px;
+    }
+  p {
+  	font-family: 'Open Sans Condensed', sans-serif;
+    font-size:22px;
+    text-align: center;  
+}
+.container-fluid {
+  width:auto;  	
+}
+
+  .destinations p {
+  	text-align:center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+  	}
+  .navbar {
+  	margin-right: 10px;
+  	margin-left: 10px;
+  	}
+  .navbar-right {
+  	padding:0px 10px 0px 5px;
+  	}
+  .btn-primary{
+  	background-color:black;
+  	border:none;
+  	}
+  	.item img
+  	{
+  	width:100%;
+  	height:200px;
+  	}
+
+.btn{
+  	background-color:black;
+  	border:none;
+  	margin:0;
+  	}
+.cities
+{
+  width:100%;
+  background-size:cover;
+}
+
+
+  	.email{
+  	position:center;
+  	margin:0;
+  	}
+
+.social {
+min-height: 100%;
+padding-top: 50px;
+text-align: center;
+}
+
+#social-buttons button {
+float: center;
+color: white;
+}
+.col-lg-12{
+text-align: center;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+

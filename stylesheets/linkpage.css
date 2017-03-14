@@ -1,0 +1,242 @@
+.page-top-font {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    }
+
+nav a {
+   font-family: 'Amatic SC', cursive;
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   font-size: 35px;
+   }
+.navbar {
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+.navbar-right {
+    padding:0px 10px 0px 5px;
+    }
+
+/*----------- Main header -------------*/
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 200px;
+    color: white;
+    text-align: center;
+    padding: 160px 10px 90px 0px;
+    margin-bottom: 0em;
+}
+/*----------- Container -------------*/
+
+#container {
+    background: url(https://cdn.theatlantic.com/assets/media/img/photo/2014/03/st-petersburg-from-above/s01_00SPB008/main_900.jpg?1420504465) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 1;
+    margin-bottom: 50px;
+    padding: 0px 0px 30px 0px;
+}
+#containerMilan {
+    background: url(http://tripandtravelblog.com/wp-content/uploads/2011/10/Milan-by-night-Italy.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 1;
+    margin-bottom: 50px;
+    padding: 0px 0px 30px 0px;
+}
+
+#containerLondon {
+    background: url(http://wallpapers-best.com/uploads/posts/2015-10/17_london.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 1;
+    margin-bottom: 50px;
+    padding: 0px 0px 30px 0px;
+}
+
+.container-fluid {
+    position: fixed;
+    left: 0;
+    top: 0; 
+    width: 100%;
+    background-color:#222222;
+    z-index: 2;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*---------Back Button-----------*/
+#back {
+    width: 35%;
+    font-family:'Open Sans', sans-serif;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-style: italic;
+    margin-left: 20px;
+}
+
+#back:hover {
+    opacity: 0.6;
+}
+/*----------- Content -------------*/
+.parent {
+  display: flex;
+     width: 100%;
+  justify-content: center;
+}
+.content {
+  flex: 1;
+  background: white;
+  opacity: 0.9;
+  color:black;
+  padding: 20px 30px 40px 30px;
+  margin: 50px 0px 20px 0px;
+ text-align: center;
+}
+
+.picture1milan {
+  width: 33%;
+  background:
+  url(http://i1144.photobucket.com/albums/o496/EndriHasanaj/NaviglioGrandeMilanocanals.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture2milan {
+  width: 33%;
+  background:
+  url(http://www.blocal-travel.com/wp-content/uploads/2015/04/street-art-isola-Milan.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture3milan {
+  width: 33%;
+  background:
+  url(http://d1wl13ohcvociy.cloudfront.net/wp-content/uploads/2014/09/03.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+
+ .picture4milan {
+  width: 33%;
+  background:
+  url(http://www.feeltheyarn.it/wp-content/uploads/2012/11/arengario_milano.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+.picture1stpet {
+  width: 33%;
+  background:
+  url(http://www.visit-petersburg.ru/media/uploads/album/151/978_detail_page.jpg) no-repeat;
+  background-size: cover;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture2stpet {
+  width: 33%;
+  background:
+  url(https://d13yacurqjgara.cloudfront.net/users/724070/screenshots/2434544/freedom-anticafe_1x.png) no-repeat;
+  background-size:cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture3stpet {
+  width: 33%;
+  background:
+  url(http://www.friendsplace.ru/public/images/wysiwyg_upload/page_81/bermudy.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+.picture1london {
+  width: 33%;
+  background:
+  url(http://mariahkyoung.com/wp-content/uploads/2013/10/blog-featured-image-alternative-London.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture2london {
+  width: 33%;
+  background:
+  url(http://www.londonhotels4u.com/Resources/Images/556.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+ .picture3london {
+  width: 33%;
+  background:
+  url(http://cubmagazine.co.uk/wp-content/uploads/2014/09/London_Photo_9_httpbusinessofeminin.comenwp-contentuploads201402Lady-Dinahs2-663x407.jpg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color:black;
+  padding: 120px 200px 120px 200px;
+  margin: 50px 0px 20px 0px;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    color: grey;
+    text-align: center; 
+}
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: grey;
+    text-align: center;
+    padding: 50px 30px 50px 30px;
+    margin-top:0em;
+}
+#about p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: grey;
+    text-align: center;
+    padding: 80px 60px 80px 60px;
+    margin-top:0em;
+}
+ 
+#about {
+	color: white;
+	font-size: 33px
+}
+.map h3 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding: 80px 60px 80px 60px;
+    margin-top:0em;
+}
+.map {
+text-align: center;
+display:block;
+float:center;
+}
+
+
+
+
